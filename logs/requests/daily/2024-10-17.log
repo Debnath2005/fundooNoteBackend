@@ -104,3 +104,9 @@ info: ::1 - - [17/Oct/2024:13:16:34 +0000] "DELETE /api/v1/notes/deleteNote/6711
 
 info: ::1 - - [17/Oct/2024:13:17:02 +0000] "GET /api/v1/notes/getNoteById/6710fba6c04fe3050801ec48 HTTP/1.1" 400 59 "-" "PostmanRuntime/7.42.0"
 
+info: ::1 - - [17/Oct/2024:15:04:39 +0000] "GET /api/v1/notes/getAllNotes HTTP/1.1" 202 245 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+
+info: ::1 - - [17/Oct/2024:15:09:19 +0000] "POST /api/v1/notes/createNote HTTP/1.1" 202 232 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:15:10:17 +0000] "GET /api/v1/notes/getAllNotes HTTP/1.1" 202 418 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+
