@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 /* eslint-disable no-multi-spaces */
 /* eslint-disable no-unused-vars */
 /* eslint-disable prettier/prettier */

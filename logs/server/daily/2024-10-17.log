@@ -15,3 +15,114 @@ info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-17T0
 info: Connected to the database. {"timestamp":"2024-10-17T06:27:41.640Z"}
 info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-17T06:32:19.709Z"}
 info: Connected to the database. {"timestamp":"2024-10-17T06:32:19.732Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T07:20:44.945Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-17T07:22:36.146Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T07:22:36.170Z"}
+error: 
+    status - 500 
+    message - ValidationError: "email" is not allowed 
+    url - /api/v1/notes/createNote 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-10-17T07:22:47.993Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-17T07:24:23.782Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T07:24:23.803Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-17T07:30:44.517Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T07:30:44.557Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-17T07:33:16.380Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T07:33:16.404Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-17T07:36:49.717Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T07:36:49.744Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-17T11:11:02.593Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T11:11:02.618Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-17T11:12:12.924Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T11:12:12.946Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-17T11:15:54.878Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T11:15:54.899Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-17T11:17:07.482Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T11:17:07.503Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-17T11:25:58.429Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T11:25:58.448Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-17T11:27:00.193Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T11:27:00.215Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-17T11:39:35.386Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T11:39:35.409Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-17T11:41:18.941Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T11:41:18.963Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-17T11:44:28.283Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T11:44:28.305Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-17T11:54:19.335Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T11:54:19.358Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-17T11:55:41.804Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T11:55:41.826Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-17T11:56:40.069Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T11:56:40.096Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-17T11:57:21.179Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T11:57:21.203Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-17T12:05:33.729Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T12:05:33.753Z"}
+error: 
+    status - 500 
+    message - ValidationError: "email" is required 
+    url - /api/v1/notes/createNote 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-10-17T12:05:54.789Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-17T12:06:27.565Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T12:06:27.590Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-17T12:16:12.836Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T12:16:12.863Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-17T12:18:25.944Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T12:18:25.966Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-17T12:19:25.555Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T12:19:25.581Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-17T12:21:18.411Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T12:21:18.434Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-17T12:22:51.526Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T12:22:51.550Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-17T12:24:04.858Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T12:24:04.885Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-17T12:28:14.591Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T12:28:14.613Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-17T12:29:05.843Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T12:29:05.864Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-17T12:29:29.596Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T12:29:29.618Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-17T12:31:33.986Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T12:31:34.029Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-17T12:32:08.223Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T12:32:08.245Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-17T12:33:07.550Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T12:33:07.575Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-17T12:34:47.569Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T12:34:47.590Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-17T12:37:25.429Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T12:37:25.450Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-17T12:42:23.627Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T12:42:23.651Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-17T12:46:24.279Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T12:46:24.305Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-17T12:48:01.303Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T12:48:01.327Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-17T12:48:16.953Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T12:48:16.977Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-17T12:49:54.682Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T12:49:54.707Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-17T13:01:47.672Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T13:01:47.710Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-17T13:04:11.037Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T13:04:11.063Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-17T13:09:10.748Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T13:09:10.775Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-17T13:11:58.808Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T13:11:58.832Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-17T13:14:43.575Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T13:14:43.599Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-17T13:15:54.254Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T13:15:54.278Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-17T13:16:10.186Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T13:16:10.208Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-17T14:57:11.918Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T14:57:11.952Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-17T15:00:12.029Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T15:00:12.069Z"}

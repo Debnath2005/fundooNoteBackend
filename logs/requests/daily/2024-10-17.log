@@ -10,3 +10,97 @@ info: ::1 - - [17/Oct/2024:06:28:03 +0000] "POST /api/v1/users/signup HTTP/1.1" 
 
 info: ::1 - - [17/Oct/2024:06:28:48 +0000] "POST /api/v1/users/login HTTP/1.1" 201 243 "-" "PostmanRuntime/7.42.0"
 
+info: ::1 - - [17/Oct/2024:07:22:48 +0000] "POST /api/v1/notes/createNote HTTP/1.1" 500 59 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:07:24:27 +0000] "POST /api/v1/notes/createNote HTTP/1.1" 500 35 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:07:30:12 +0000] "POST /api/v1/notes/createNote HTTP/1.1" 500 35 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:07:30:50 +0000] "POST /api/v1/notes/createNote HTTP/1.1" 500 35 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:07:33:27 +0000] "POST /api/v1/notes/createNote HTTP/1.1" 202 180 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:09:50:28 +0000] "GET /api/v1/ HTTP/1.1" 200 9 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+
+info: ::1 - - [17/Oct/2024:09:50:28 +0000] "GET /favicon.ico HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+
+info: ::1 - - [17/Oct/2024:09:50:42 +0000] "GET /api/v1/signup HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+
+info: ::1 - - [17/Oct/2024:10:06:34 +0000] "GET /api/v1/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+
+info: ::1 - - [17/Oct/2024:11:02:30 +0000] "GET / HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+
+info: ::1 - - [17/Oct/2024:11:03:27 +0000] "GET /api/v1/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+
+info: ::1 - - [17/Oct/2024:11:46:26 +0000] "POST /api/v1/notes/createNote HTTP/1.1" 202 180 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:11:48:41 +0000] "GET /api/v1/notes/getAllNotes HTTP/1.1" 202 304 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:11:50:22 +0000] "POST /api/v1/notes/createNote HTTP/1.1" 202 180 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:11:54:40 +0000] "POST /api/v1/notes/createNote HTTP/1.1" 202 180 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:11:55:47 +0000] "POST /api/v1/notes/createNote HTTP/1.1" 202 180 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:11:57:26 +0000] "POST /api/v1/notes/createNote HTTP/1.1" 202 266 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:12:05:54 +0000] "POST /api/v1/notes/createNote HTTP/1.1" 500 56 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:12:06:30 +0000] "POST /api/v1/notes/createNote HTTP/1.1" 202 242 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:12:20:39 +0000] "GET /api/v1/notes/getNoteById/6710fba6c04fe3050801ec48 HTTP/1.1" 404 47 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:12:22:57 +0000] "GET /api/v1/notes/getNoteById/6710fba6c04fe3050801ec48 HTTP/1.1" 400 59 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:12:24:07 +0000] "GET /api/v1/notes/getNoteById/6710fba6c04fe3050801ec48 HTTP/1.1" 400 59 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:12:28:22 +0000] "GET /api/v1/notes/getNoteById/6710fba6c04fe3050801ec48 HTTP/1.1" 400 59 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:12:29:11 +0000] "GET /api/v1/notes/getNoteById/6710fba6c04fe3050801ec48 HTTP/1.1" 400 59 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:12:29:36 +0000] "GET /api/v1/notes/getNoteById/6710fba6c04fe3050801ec48 HTTP/1.1" 400 59 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:12:30:37 +0000] "GET /api/v1/notes/getNoteById/6710fba6c04fe3050801ec48 HTTP/1.1" 400 59 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:12:31:34 +0000] "GET /api/v1/notes/getNoteById/6710fba6c04fe3050801ec48 HTTP/1.1" 400 283 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:12:32:12 +0000] "GET /api/v1/notes/getNoteById/6710fba6c04fe3050801ec48 HTTP/1.1" 400 348 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:12:32:21 +0000] "GET /api/v1/notes/getNoteById/6710fba6c04fe3050801ec48 HTTP/1.1" 400 348 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:12:33:14 +0000] "GET /api/v1/notes/getNoteById/6710fba6c04fe3050801ec48 HTTP/1.1" 202 263 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:12:51:19 +0000] "PUT /api/v1/updateNote/getNoteById/6710fba6c04fe3050801ec48 HTTP/1.1" 404 47 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:12:51:39 +0000] "PUT /api/v1/updateNote/6710fba6c04fe3050801ec48 HTTP/1.1" 404 47 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:12:52:11 +0000] "PUT /api/v1/updateNote/6710fba6c04fe3050801ec48 HTTP/1.1" 404 47 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:12:54:09 +0000] "PUT /api/v1/updateNote/6710fba6c04fe3050801ec48 HTTP/1.1" 404 47 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:12:56:44 +0000] "PUT /api/v1/notes/updateNote/6710fba6c04fe3050801ec48 HTTP/1.1" 202 266 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:13:05:19 +0000] "DELETE /api/v1/notes/deleteNote/6710fba6c04fe3050801ec48 HTTP/1.1" 400 35 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:13:09:30 +0000] "POST /api/v1/notes/createNote HTTP/1.1" 202 242 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:13:09:50 +0000] "DELETE /api/v1/notes/deleteNote/67110c8a0ca8c53698182cb6 HTTP/1.1" 400 35 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:13:12:09 +0000] "POST /api/v1/notes/createNote HTTP/1.1" 202 242 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:13:12:35 +0000] "DELETE /api/v1/notes/deleteNote/67110d29d07d9f0c78228d43 HTTP/1.1" 400 35 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:13:13:17 +0000] "POST /api/v1/notes/createNote HTTP/1.1" 202 242 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:13:13:46 +0000] "DELETE /api/v1/notes/deleteNote/67110d6dd07d9f0c78228d46 HTTP/1.1" 400 35 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:13:14:57 +0000] "POST /api/v1/notes/createNote HTTP/1.1" 202 242 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:13:15:14 +0000] "DELETE /api/v1/notes/deleteNote/67110dd1645bdf49bc4e9d5a HTTP/1.1" 400 35 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:13:16:20 +0000] "POST /api/v1/notes/createNote HTTP/1.1" 202 242 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:13:16:34 +0000] "DELETE /api/v1/notes/deleteNote/67110e24dad59848901a8ad8 HTTP/1.1" 202 242 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:13:17:02 +0000] "GET /api/v1/notes/getNoteById/6710fba6c04fe3050801ec48 HTTP/1.1" 400 59 "-" "PostmanRuntime/7.42.0"
+
