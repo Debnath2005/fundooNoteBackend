@@ -272,3 +272,100 @@ info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-17T1
 info: Connected to the database. {"timestamp":"2024-10-17T15:00:12.069Z"}
 info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-17T15:02:10.690Z"}
 info: Connected to the database. {"timestamp":"2024-10-17T15:02:10.744Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-17T16:40:59.883Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T16:40:59.920Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-17T17:42:30.459Z"}
+info: Connected to the database. {"timestamp":"2024-10-17T17:42:30.567Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-18T05:22:41.873Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T05:22:41.900Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-18T06:07:24.493Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T06:07:24.514Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-18T10:18:27.004Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T10:18:27.052Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-18T10:24:08.903Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T10:24:08.946Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-18T10:33:06.681Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T10:33:06.722Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-18T10:34:20.849Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T10:34:20.902Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-18T12:22:27.447Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T12:22:27.478Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-18T12:26:38.319Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T12:26:38.342Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-18T12:27:14.120Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T12:27:14.147Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-18T12:27:20.344Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T12:27:20.365Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-18T12:34:52.376Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T12:34:52.413Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-18T12:34:56.940Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T12:34:56.968Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-18T12:38:23.573Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T12:38:23.596Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-18T12:38:32.145Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T12:38:32.166Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-18T12:42:25.138Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T12:42:25.164Z"}
+error: uncaughtException: listen EADDRINUSE: address already in use :::4000
+Error: listen EADDRINUSE: address already in use :::4000
+    at Server.setupListenHandle [as _listen2] (node:net:1872:16)
+    at listenInCluster (node:net:1920:12)
+    at Server.listen (node:net:2008:7)
+    at Function.listen (C:\Users\Debnath mondal\Desktop\Fundoo-notes\node_modules\express\lib\application.js:635:24)
+    at Object.<anonymous> (C:\Users\Debnath mondal\Desktop\Fundoo-notes\src\/index.js:37:5)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._compile (C:\Users\Debnath mondal\Desktop\Fundoo-notes\node_modules\pirates\lib\index.js:117:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Object.newLoader [as .js] (C:\Users\Debnath mondal\Desktop\Fundoo-notes\node_modules\pirates\lib\index.js:121:7)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.runMain (node:internal/modules/run_main:135:12)
+    at Object.<anonymous> (C:\Users\Debnath mondal\Desktop\Fundoo-notes\node_modules\@babel\node\src\_babel-node.ts:159:12)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)
+    at node:internal/main/run_main_module:28:49 {"date":"Fri Oct 18 2024 18:12:50 GMT+0530 (India Standard Time)","error":{"address":"::","code":"EADDRINUSE","errno":-4091,"port":4000,"syscall":"listen"},"exception":true,"os":{"loadavg":[0,0,0],"uptime":585027.843},"process":{"argv":["node","C:\\Users\\Debnath mondal\\Desktop\\Fundoo-notes\\src\\index.js"],"cwd":"C:\\Users\\Debnath mondal\\Desktop\\Fundoo-notes","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":18278783,"external":21393990,"heapTotal":85860352,"heapUsed":52434528,"rss":124895232},"pid":5804,"uid":null,"version":"v21.3.0"},"stack":"Error: listen EADDRINUSE: address already in use :::4000\n    at Server.setupListenHandle [as _listen2] (node:net:1872:16)\n    at listenInCluster (node:net:1920:12)\n    at Server.listen (node:net:2008:7)\n    at Function.listen (C:\\Users\\Debnath mondal\\Desktop\\Fundoo-notes\\node_modules\\express\\lib\\application.js:635:24)\n    at Object.<anonymous> (C:\\Users\\Debnath mondal\\Desktop\\Fundoo-notes\\src\\/index.js:37:5)\n    at Module._compile (node:internal/modules/cjs/loader:1376:14)\n    at Module._compile (C:\\Users\\Debnath mondal\\Desktop\\Fundoo-notes\\node_modules\\pirates\\lib\\index.js:117:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)\n    at Object.newLoader [as .js] (C:\\Users\\Debnath mondal\\Desktop\\Fundoo-notes\\node_modules\\pirates\\lib\\index.js:121:7)\n    at Module.load (node:internal/modules/cjs/loader:1207:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)\n    at Function.runMain (node:internal/modules/run_main:135:12)\n    at Object.<anonymous> (C:\\Users\\Debnath mondal\\Desktop\\Fundoo-notes\\node_modules\\@babel\\node\\src\\_babel-node.ts:159:12)\n    at Module._compile (node:internal/modules/cjs/loader:1376:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1435:10)\n    at Module.load (node:internal/modules/cjs/loader:1207:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:1023:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:135:12)\n    at node:internal/main/run_main_module:28:49","timestamp":"2024-10-18T12:42:50.533Z","trace":[{"column":16,"file":"node:net","function":"Server.setupListenHandle [as _listen2]","line":1872,"method":"setupListenHandle [as _listen2]","native":false},{"column":12,"file":"node:net","function":"listenInCluster","line":1920,"method":null,"native":false},{"column":7,"file":"node:net","function":"Server.listen","line":2008,"method":"listen","native":false},{"column":24,"file":"C:\\Users\\Debnath mondal\\Desktop\\Fundoo-notes\\node_modules\\express\\lib\\application.js","function":"Function.listen","line":635,"method":"listen","native":false},{"column":5,"file":"C:\\Users\\Debnath mondal\\Desktop\\Fundoo-notes\\src\\/index.js","function":null,"line":37,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1376,"method":"_compile","native":false},{"column":24,"file":"C:\\Users\\Debnath mondal\\Desktop\\Fundoo-notes\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":117,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1435,"method":".js","native":false},{"column":7,"file":"C:\\Users\\Debnath mondal\\Desktop\\Fundoo-notes\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":121,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1207,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":1023,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.runMain","line":135,"method":"runMain","native":false},{"column":12,"file":"C:\\Users\\Debnath mondal\\Desktop\\Fundoo-notes\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":159,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1376,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1435,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1207,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":1023,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":135,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":49,"file":"node:internal/main/run_main_module","function":null,"line":28,"method":null,"native":false}]}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-18T12:44:27.956Z"}
+info: Connected to the database. {"timestamp":"2024-10-18T12:44:27.984Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-19T13:46:14.387Z"}
+info: Connected to the database. {"timestamp":"2024-10-19T13:46:14.488Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-19T13:47:20.060Z"}
+info: Connected to the database. {"timestamp":"2024-10-19T13:47:20.122Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-19T14:03:15.443Z"}
+info: Connected to the database. {"timestamp":"2024-10-19T14:03:15.506Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-19T14:04:05.322Z"}
+info: Connected to the database. {"timestamp":"2024-10-19T14:04:05.377Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-19T14:09:20.254Z"}
+info: Connected to the database. {"timestamp":"2024-10-19T14:09:20.312Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-19T14:19:09.335Z"}
+info: Connected to the database. {"timestamp":"2024-10-19T14:19:09.372Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-19T14:22:32.900Z"}
+info: Connected to the database. {"timestamp":"2024-10-19T14:22:32.958Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-19T14:24:37.269Z"}
+info: Connected to the database. {"timestamp":"2024-10-19T14:24:37.327Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-19T14:25:42.000Z"}
+info: Connected to the database. {"timestamp":"2024-10-19T14:25:42.068Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-19T14:25:57.129Z"}
+info: Connected to the database. {"timestamp":"2024-10-19T14:25:57.188Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-19T14:28:56.626Z"}
+info: Connected to the database. {"timestamp":"2024-10-19T14:28:56.690Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-19T14:37:36.242Z"}
+info: Connected to the database. {"timestamp":"2024-10-19T14:37:36.271Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-19T14:40:22.486Z"}
+info: Connected to the database. {"timestamp":"2024-10-19T14:40:22.511Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-19T14:43:57.443Z"}
+info: Connected to the database. {"timestamp":"2024-10-19T14:43:57.464Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-19T14:45:15.991Z"}
+info: Connected to the database. {"timestamp":"2024-10-19T14:45:16.023Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-19T14:46:49.265Z"}
+info: Connected to the database. {"timestamp":"2024-10-19T14:46:49.319Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-19T14:48:15.372Z"}
+info: Connected to the database. {"timestamp":"2024-10-19T14:48:15.422Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-19T14:50:27.307Z"}
+info: Connected to the database. {"timestamp":"2024-10-19T14:50:27.359Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-19T15:53:56.072Z"}
+info: Connected to the database. {"timestamp":"2024-10-19T15:53:56.092Z"}
+info: Server started at http://localhost:4000/api/v1/ {"timestamp":"2024-10-19T18:48:26.262Z"}
+info: Connected to the database. {"timestamp":"2024-10-19T18:48:26.327Z"}

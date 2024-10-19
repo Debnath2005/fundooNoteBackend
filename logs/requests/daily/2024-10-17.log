@@ -110,3 +110,11 @@ info: ::1 - - [17/Oct/2024:15:09:19 +0000] "POST /api/v1/notes/createNote HTTP/1
 
 info: ::1 - - [17/Oct/2024:15:10:17 +0000] "GET /api/v1/notes/getAllNotes HTTP/1.1" 202 418 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
 
+info: ::1 - - [17/Oct/2024:16:43:19 +0000] "POST /api/v1/notes/createNote HTTP/1.1" 202 231 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:16:43:31 +0000] "GET /api/v1/notes/getAllNotes HTTP/1.1" 202 590 "-" "PostmanRuntime/7.42.0"
+
+info: ::1 - - [17/Oct/2024:16:51:41 +0000] "GET /api/v1/notes/getAllNotes HTTP/1.1" 202 590 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+
+info: ::1 - - [17/Oct/2024:17:58:49 +0000] "GET /api/v1/notes/getNoteById/67113ea797265562c82e96a0 HTTP/1.1" 202 228 "-" "PostmanRuntime/7.42.0"
+

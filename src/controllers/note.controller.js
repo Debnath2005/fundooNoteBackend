@@ -21,7 +21,6 @@ export const createNote = async (req, res) => {
   }
 };
 
-
 export const getAllNotes= async(req,res)=>{
     try {
         const data= await NoteService.getAllNotes(req.body)
